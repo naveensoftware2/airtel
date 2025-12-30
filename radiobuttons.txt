@@ -1,0 +1,20 @@
+<html>
+<head>
+<forms>
+<h1>TEXT BOX</h1>
+<h2>LOGIN</h2>
+Username:<input type="text" name="username" value="username"maxlength="7" size=20><br><br>
+Password=<input type="Password"name="password">
+<h1>RADIO BUTTONS</h1>
+<h2>GENDER</h2>
+<input type="radio" name="gender"checked>male<br> 
+<input type="radio" name="gender">female
+<h1>CHECK BOX</h1>
+<h2>HOBBIES</h2>
+<h1>TEXT AREA</h1>
+<h2>ADDRESS</h2>
+<text area rows="5"cols="15">
+</text area>
+</body>
+</html>
+
